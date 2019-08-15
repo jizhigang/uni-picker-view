@@ -222,4 +222,8 @@ bindChange: function (e) {
 			},
 ```
 
+
+![演示.gif](https://upload-images.jianshu.io/upload_images/3305752-d62d73b48cc0dde9.gif?imageMogr2/auto-orient/strip)
+
+
 简书：<https://www.jianshu.com/p/ffef1ba00aa5>
