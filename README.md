@@ -207,7 +207,7 @@ bindChange: function (e) {
 					if(m>this.currentMonth){
 						this.babyAge = this.currentYear-y-1
 					}else if(m==this.currentMonth){
-						if(d>=this.currentDay){
+						if(d>this.currentDay){
 							this.babyAge = this.currentYear-y-1
 						}else{
 							this.babyAge = this.currentYear-y
